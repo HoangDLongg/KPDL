@@ -6,6 +6,7 @@ Dự án này sử dụng mô hình CNN-LSTM để phân loại 5 tư thế yoga
 * **LSTM:** Được sử dụng để học mối quan hệ thời gian (temporal patterns) giữa chuỗi 16 khung hình liên tiếp.
 
 Mục tiêu là xây dựng một hệ thống nhận diện tư thế tự động với độ chính xác cao, đạt **96.88** trên tập dữ liệu kiểm tra.
+Link data : https://www.kaggle.com/datasets/pulaksarmah/yoga-videos
 
 ## 🛠️ Công nghệ sử dụng
 
